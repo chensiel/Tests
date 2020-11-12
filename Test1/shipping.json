@@ -1,0 +1,44 @@
+﻿[
+  {
+    "ShippingId": "S1",
+    "WayBill": "W001",
+    "WayCom": "WayCom",
+    "ShippingLotNo": "L001"
+  },
+  {
+    "ShippingId": "S2",
+    "WayBill": "W002",
+    "WayCom": "WayCom",
+    "ShippingLotNo": "L002"
+  },
+  {
+    "ShippingId": "S3",
+    "WayBill": "W003",
+    "WayCom": "WayCom",
+    "ShippingLotNo": "L001"
+  },
+  {
+    "ShippingId": "S4",
+    "WayBill": "W004",
+    "WayCom": "WayCom",
+    "ShippingLotNo": "L002"
+  },
+  {
+    "ShippingId": "S5",
+    "WayBill": "W005",
+    "WayCom": "WayCom",
+    "ShippingLotNo": "L001"
+  },
+  {
+    "ShippingId": "S6",
+    "WayBill": "W006",
+    "WayCom": "WayCom",
+    "ShippingLotNo": "L002"
+  },
+  {
+    "ShippingId": "S7",
+    "WayBill": "W007",
+    "WayCom": "WayCom",
+    "ShippingLotNo": "L002"
+  }
+]

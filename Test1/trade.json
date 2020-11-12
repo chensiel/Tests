@@ -1,0 +1,42 @@
+﻿[
+  {
+    "TradeId": "T1",
+    "OrderList": [
+      {
+        "OrderId": "O1_1",
+        "WayBill": "W001",
+        "WayCom": "WayCom"
+      },
+      {
+        "OrderId": "O1_2",
+        "WayBill": "W001",
+        "WayCom": "WayCom"
+      }
+    ]
+  },
+  {
+    "TradeId": "T2",
+    "OrderList": [
+      {
+        "OrderId": "O2_1",
+        "WayBill": "W002",
+        "WayCom": "WayCom"
+      },
+      {
+        "OrderId": "O2_2",
+        "WayBill": "W001",
+        "WayCom": "WayCom"
+      }
+    ]
+  },
+  {
+    "TradeId": "T3",
+    "OrderList": [
+      {
+        "OrderId": "O3_1",
+        "WayBill": "W004",
+        "WayCom": "WayCom"
+      }
+    ]
+  }
+]
